@@ -1,0 +1,33 @@
+body{
+  font-family:'poppins' ,'Courier New', Courier, monospace;
+}
+h1{
+    font-size: 2rem;
+    background-color: #293462;
+    color: #D61C4E;
+
+
+    
+}
+.subheading,h5{
+    font-size: 1.2rem;
+    /* margin-top: -1rem; */
+    margin: 0 0 0 1rem ;
+    color: #FEDB39;
+
+
+}
+.header{
+    border: .15rem solid black;
+
+
+}
+
+img{
+    width: 25rem;
+}
+ul{
+    font-size: 1.2rem;
+    font-style: italic;
+    
+}
